@@ -50,7 +50,7 @@
 
 #### 📺 Відео-інструкція
 Нижче посилання на пошуковий запит, де зібрані найсвіжіші гайди:
-👉 [**Дивитися відео заправки TN-2510 на YouTube**](https://www.youtube.com/results?search_query=Brother+TN2510+refill+guide)
+👉 [**Дивитися відео заправки TN-2510 на YouTube**]([https://www.youtube.com/results?search_query=Brother+TN2510+refill+guide](https://www.youtube.com/watch?v=bWc3qa6siyk))
 
 ---
 
