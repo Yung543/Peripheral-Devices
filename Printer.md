@@ -33,7 +33,7 @@
 
 | Компонент | Назва моделі | Фото деталі | Ціна (аналог) |
 | :--- | :--- | :---: | :--- |
-| **📦 Картридж** | Brother TN-2510 | [Дивитись](https://rozetka.com.ua/ua/brother-4977766830270/p406408974/) | **~950 грн** |
+| **📦 Картридж** | Brother TN-2510 | [Дивитись](https://rozetka.com.ua/ua/brother-4977766830270/p406408974/) | **~2000 грн** |
 | **🧪 Тонер** | Тонер Brother (100г) | [Дивитись](https://rozetka.com.ua/ua/317496214/p317496214/) | **~190 грн** |
 | **🥁 Фотобарабан** | Brother DR-2510 | [Дивитись](https://store.brother.co.uk/supplies/laser/drums/dr/dr2510) | **~850 грн** |
 | **🔪 Лезо** | Doctor Blade TN-2510 | [Дивитись](https://itshnik.com.ua/ru-s-hg-hgc011m-100) | **~140 грн** |
