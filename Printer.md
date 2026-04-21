@@ -33,10 +33,10 @@
 
 | Компонент | Назва моделі | Фото деталі | Ціна (аналог) |
 | :--- | :--- | :---: | :--- |
-| **📦 Картридж** | Brother TN-2510 | [Дивитись](https://m.media-amazon.com/images/I/51S2Iu-Z10L._AC_SL1000_.jpg) | **~950 грн** |
-| **🧪 Тонер** | Тонер Brother (100г) | [Дивитись](https://ww2.justanswer.com/uploads/p_m_allan/2012-07-25_203930_toner.jpg) | **~190 грн** |
-| **🥁 Фотобарабан** | Brother DR-2510 | [Дивитись](https://m.media-amazon.com/images/I/51Xm2-Cj1XL._AC_SL1200_.jpg) | **~850 грн** |
-| **🔪 Лезо** | Doctor Blade TN-2510 | [Дивитись](https://sc04.alicdn.com/kf/H8d39e338c7f14b80b2a5a5a1f6a1e3e0W.jpg) | **~140 грн** |
+| **📦 Картридж** | Brother TN-2510 | [Дивитись]([https://m.media-amazon.com/images/I/51S2Iu-Z10L._AC_SL1000_.jpg](https://rozetka.com.ua/ua/brother-4977766830270/p406408974/)) | **~950 грн** |
+| **🧪 Тонер** | Тонер Brother (100г) | [Дивитись](https://rozetka.com.ua/ua/317496214/p317496214/) | **~190 грн** |
+| **🥁 Фотобарабан** | Brother DR-2510 | [Дивитись](https://store.brother.co.uk/supplies/laser/drums/dr/dr2510) | **~850 грн** |
+| **🔪 Лезо** | Doctor Blade TN-2510 | [Дивитись](https://itshnik.com.ua/ru-s-hg-hgc011m-100) | **~140 грн** |
 
 ---
 
